@@ -1,0 +1,297 @@
+AutoHotkey 1.1.35.00
+Embarcadero InterBase 2020 [instance = gds_db]
+Microsoft Office профессиональный плюс 2016
+Garry's Mod
+Wallpaper Engine
+Counter-Strike: Global Offensive
+Tesseract-OCR - open source OCR engine
+Unity Hub 3.3.0
+VLC media player
+WinRAR 6.10 (64-разрядная)
+Microsoft .NET SDK 6.0.401 (x64) from Visual Studio
+Node.js
+Microsoft System CLR Types для SQL Server 2019
+Microsoft Visual C++ 2010 Redistributable - x64 10.0.40219
+Java 8 Update 331 (64-bit)
+Java 8 Update 333 (64-bit)
+Java 8 Update 341 (64-bit)
+Java 8 Update 51 (64-bit)
+Malwarebytes version 4.5.16.217
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Java SE Development Kit 8 Update 333 (64-bit)
+Java SE Development Kit 8 Update 341 (64-bit)
+Microsoft Visual Studio Installer
+RHVoice (64-bit)
+Cloudflare WARP
+Microsoft Visual C++ 2005 Redistributable - x64 8.0.61000
+NVIDIA Графический драйвер 526.98
+NVIDIA GeForce Experience 3.26.0.154
+NVIDIA Системное программное обеспечение PhysX 9.21.0713
+NVIDIA FrameView SDK 1.3.8107.31782123
+NVIDIA Аудиодрайвер HD 1.3.39.16
+spacedesk Windows DRIVER
+The Slormancer
+Visual Studio Build Tools 2019
+Advanced SystemCare
+MSI Afterburner 4.6.4
+Bloody7
+Driver Booster 9
+Dying Light v.1.6.1
+eSpeak version 1.48.04
+Visual Studio Community 2022
+Driver Booster
+LogMeIn Hamachi
+Microsoft Edge
+Microsoft Edge Dev
+Microsoft Edge Update
+Среда выполнения Microsoft Edge WebView2 Runtime
+Microsoft Windows 10 SDK Installer
+NoxPlayer
+OpenAL
+PyCharm Community Edition 2021.3.2
+RivaTuner Statistics Server 7.3.3
+StartIsBack++
+Steam
+TLauncher
+Unity 2021.3.10f1
+RHVoice Russian language pack
+Windows Software Development Kit - Windows 10.0.18362.1
+RHVoice Timofey, Russian voice
+VLC Media Player  version 0.0.0.1
+Lightshot-5.5.0.7
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31332
+RHVoice (32-bit)
+Windows Software Development Kit - Windows 10.0.19041.685
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+RAD Studio 10.4
+RHVoice Artemiy, Russian voice
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001
+«Среда для Visio», версия 2016
+Python Launcher
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31332
+Gunslinger Sigerous Addon, версия 1.1
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft XNA Framework Redistributable 4.0 Refresh
+Windows SDK AddOn
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219
+1C:Enterprise 8.2 (8.2.12.75)
+NVIDIA Графический драйвер 527.37
+NVIDIA GeForce Experience 3.26.0.154
+NVIDIA Системное программное обеспечение PhysX 9.21.0713
+NVIDIA FrameView SDK 1.3.8107.31782123
+NVIDIA Аудиодрайвер HD 1.3.39.16
+spacedesk Windows DRIVER
+The Slormancer
+Visual Studio Build Tools 2019
+Advanced SystemCare
+MSI Afterburner 4.6.4
+Bloody7
+Driver Booster 9
+Dying Light v.1.6.1
+eSpeak version 1.48.04
+Visual Studio Community 2022
+Driver Booster
+LogMeIn Hamachi
+Microsoft Edge
+Microsoft Edge Dev
+Microsoft Edge Update
+Среда выполнения Microsoft Edge WebView2 Runtime
+Microsoft Windows 10 SDK Installer
+NoxPlayer
+OpenAL
+PyCharm Community Edition 2021.3.2
+RivaTuner Statistics Server 7.3.3
+StartIsBack++
+Steam
+TLauncher
+Unity 2021.3.10f1
+RHVoice Russian language pack
+Windows Software Development Kit - Windows 10.0.18362.1
+RHVoice Timofey, Russian voice
+VLC Media Player  version 0.0.0.1
+Lightshot-5.5.0.7
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31332
+RHVoice (32-bit)
+Windows Software Development Kit - Windows 10.0.19041.685
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+RHVoice Artemiy, Russian voice
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001
+«Среда для Visio», версия 2016
+Python Launcher
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31332
+Gunslinger Sigerous Addon, версия 1.1
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft XNA Framework Redistributable 4.0 Refresh
+Windows SDK AddOn
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219
+1C:Enterprise 8.2 (8.2.12.75)
+InstallForge
+Driver Booster
+LogMeIn Hamachi
+Microsoft Edge
+Microsoft Edge Dev
+Microsoft Edge Update
+Среда выполнения Microsoft Edge WebView2 Runtime
+Microsoft Windows 10 SDK Installer
+NoxPlayer
+OpenAL
+PyCharm Community Edition 2021.3.2
+RivaTuner Statistics Server 7.3.3
+StartIsBack++
+Steam
+TLauncher
+Unity 2021.3.10f1
+RHVoice Russian language pack
+Windows Software Development Kit - Windows 10.0.18362.1
+RHVoice Timofey, Russian voice
+VLC Media Player  version 0.0.0.1
+Lightshot-5.5.0.7
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31332
+RHVoice (32-bit)
+Windows Software Development Kit - Windows 10.0.19041.685
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+RHVoice Artemiy, Russian voice
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001
+«Среда для Visio», версия 2016
+Python Launcher
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31332
+Gunslinger Sigerous Addon, версия 1.1
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft XNA Framework Redistributable 4.0 Refresh
+Windows SDK AddOn
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219
+1C:Enterprise 8.2 (8.2.12.75)
+Malwarebytes version 4.5.18.226
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Java SE Development Kit 8 Update 333 (64-bit)
+Java SE Development Kit 8 Update 341 (64-bit)
+Microsoft Visual Studio Installer
+RHVoice (64-bit)
+Cloudflare WARP
+Microsoft Visual C++ 2005 Redistributable - x64 8.0.61000
+NVIDIA Графический драйвер 527.37
+NVIDIA GeForce Experience 3.26.0.154
+NVIDIA Системное программное обеспечение PhysX 9.21.0713
+NVIDIA FrameView SDK 1.3.8107.31782123
+NVIDIA Аудиодрайвер HD 1.3.39.16
+spacedesk Windows DRIVER
+The Slormancer
+Visual Studio Build Tools 2019
+Advanced SystemCare
+MSI Afterburner 4.6.4
+Bloody7
+Driver Booster 9
+Dying Light v.1.6.1
+eSpeak version 1.48.04
+Visual Studio Community 2022
+InstallForge
+Driver Booster
+LogMeIn Hamachi
+Microsoft Edge
+Microsoft Edge Dev
+Microsoft Edge Update
+Среда выполнения Microsoft Edge WebView2 Runtime
+Microsoft Windows 10 SDK Installer
+NoxPlayer
+OpenAL
+PyCharm Community Edition 2021.3.2
+RivaTuner Statistics Server 7.3.3
+StartIsBack++
+Steam
+TLauncher
+Unity 2021.3.10f1
+RHVoice Russian language pack
+Windows Software Development Kit - Windows 10.0.18362.1
+RHVoice Timofey, Russian voice
+VLC Media Player  version 0.0.0.1
+Lightshot-5.5.0.7
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31332
+RHVoice (32-bit)
+Windows Software Development Kit - Windows 10.0.19041.685
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+RHVoice Artemiy, Russian voice
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001
+«Среда для Visio», версия 2016
+Python Launcher
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31332
+Gunslinger Sigerous Addon, версия 1.1
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft XNA Framework Redistributable 4.0 Refresh
+Windows SDK AddOn
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219
+1C:Enterprise 8.2 (8.2.12.75)
+Malwarebytes version 4.5.18.226
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+Java SE Development Kit 8 Update 333 (64-bit)
+Java SE Development Kit 8 Update 341 (64-bit)
+Microsoft Visual Studio Installer
+RHVoice (64-bit)
+Cloudflare WARP
+Microsoft Visual C++ 2005 Redistributable - x64 8.0.61000
+NVIDIA Графический драйвер 527.37
+NVIDIA GeForce Experience 3.26.0.154
+NVIDIA Системное программное обеспечение PhysX 9.21.0713
+NVIDIA FrameView SDK 1.3.8107.31782123
+NVIDIA Аудиодрайвер HD 1.3.39.16
+spacedesk Windows DRIVER
+The Slormancer
+Visual Studio Build Tools 2019
+Advanced SystemCare
+MSI Afterburner 4.6.4
+Bloody7
+Driver Booster 9
+Dying Light v.1.6.1
+eSpeak version 1.48.04
+Visual Studio Community 2022
+InstallForge
+Driver Booster
+LogMeIn Hamachi
+Microsoft Edge
+Microsoft Edge Dev
+Microsoft Edge Update
+Среда выполнения Microsoft Edge WebView2 Runtime
+Microsoft Windows 10 SDK Installer
+NoxPlayer
+OpenAL
+PyCharm Community Edition 2021.3.2
+RivaTuner Statistics Server 7.3.3
+StartIsBack++
+Steam
+TLauncher
+Unity 2021.3.10f1
+RHVoice Russian language pack
+Windows Software Development Kit - Windows 10.0.18362.1
+RHVoice Timofey, Russian voice
+VLC Media Player  version 0.0.0.1
+Lightshot-5.5.0.7
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31332
+RHVoice (32-bit)
+Windows Software Development Kit - Windows 10.0.19041.685
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+RHVoice Artemiy, Russian voice
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001
+«Среда для Visio», версия 2016
+Python Launcher
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31332
+Gunslinger Sigerous Addon, версия 1.1
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft XNA Framework Redistributable 4.0 Refresh
+Windows SDK AddOn
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219
+1C:Enterprise 8.2 (8.2.12.75)
+Голосовой помощник Жора
